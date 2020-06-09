@@ -1,2 +1,2 @@
 # misaka-bot
- A private bot for use in my anime recommendation server
+ A private bot for use in my anime recommendation server. No support will be provided for this bot; if you can't figure out how to host it yourself, you're better off going with a better quality bot anyway.
